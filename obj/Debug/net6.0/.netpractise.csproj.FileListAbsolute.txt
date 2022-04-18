@@ -1,0 +1,15 @@
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.csproj.AssemblyReference.cache
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.AssemblyInfoInputs.cache
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.AssemblyInfo.cs
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.csproj.CoreCompileInputs.cache
+C:\Users\prajwal.v\Desktop\.netpractise\bin\Debug\net6.0\.netpractise.exe
+C:\Users\prajwal.v\Desktop\.netpractise\bin\Debug\net6.0\.netpractise.deps.json
+C:\Users\prajwal.v\Desktop\.netpractise\bin\Debug\net6.0\.netpractise.runtimeconfig.json
+C:\Users\prajwal.v\Desktop\.netpractise\bin\Debug\net6.0\.netpractise.dll
+C:\Users\prajwal.v\Desktop\.netpractise\bin\Debug\net6.0\.netpractise.pdb
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.dll
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\refint\.netpractise.dll
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.pdb
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\.netpractise.genruntimeconfig.cache
+C:\Users\prajwal.v\Desktop\.netpractise\obj\Debug\net6.0\ref\.netpractise.dll
